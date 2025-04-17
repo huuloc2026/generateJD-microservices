@@ -40,7 +40,7 @@ Client receives link or file
 ### 1. Clone repository
 
 ```bash
-git clone [https://github.com/yourusername/jd-generator.git](https://github.com/yourusername/jd-generator.git)
+git clone [https://github.com/huuloc2026/jd-generator.git](https://github.com/huuloc2026/jd-generator.git)
 cd jd-generator
 ```
 2. Directory Structure
